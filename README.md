@@ -20,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-with-priyanshu&show_icons=true&locale=en&layout=compact" alt="code-with-priyanshu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-with-priyanshu&show_icons=true&locale=en" alt="code-with-priyanshu" /></p>
+
+[![An image of @codewithpriyanshu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codewithpriyanshu)](https://holopin.io/@codewithpriyanshu)
