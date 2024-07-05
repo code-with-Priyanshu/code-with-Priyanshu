@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Computer Science And Engineering**
 
-- 👯 I’m looking to collaborate on **Frontend Webapp**
+- 👯 I’m looking to collaborate on **Dev Projects**
 
 - ⚡ Fun fact **I love exploring new tech stack. I also love to play video games.**
 
